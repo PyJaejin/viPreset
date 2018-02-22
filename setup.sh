@@ -1,1 +1,1 @@
-sudo mv /.vimrc ~
+sudo mv ./.vimrc ~
