@@ -3,6 +3,7 @@ set backspace=2     " 삽입 모드에서 백스페이스를 계속 허용
 set autoindent      " 자동 들여쓰기
 set cindent         " c언어 자동 들여쓰기
 set smartindent     " 자동 들여쓰기
+set expandtab
 set nowrapscan      " 찾기에서 파일의 맨 끝에 이르면 계속하여 찾지 않음
 set nobackup       " 백업파일을 만들지 않음
 set novisualbell    " 비주얼벨 기능을 사용하지 않음
